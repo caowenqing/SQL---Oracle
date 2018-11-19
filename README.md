@@ -1,2 +1,2 @@
 # SQL---Oracle
-ORACLE learning
+SQL learning in Hacker Rank
